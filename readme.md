@@ -80,7 +80,8 @@ The objective is to:
 ---
 
 ## 📈 Forecast Visualization
-images/download.png
+![HSN 8482 Forecast](images/download.png)
+
 
 ---
 
@@ -120,3 +121,4 @@ notebooks/HSNCode.ipynb
 ## 📄 License
 
 This project is developed for academic and analytical purposes.
+
